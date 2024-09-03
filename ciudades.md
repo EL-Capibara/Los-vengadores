@@ -6,3 +6,6 @@
 4. Arequipa
 5. Lima
 6. Trujillo
+7. Junin
+8. Madre de Dios
+9. Loreto
